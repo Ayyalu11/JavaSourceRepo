@@ -1,0 +1,6 @@
+Manifest-Version: 2.0
+build: 23.67.89
+Main-Class: com.java.practice.varargs.TestAddMoney
+
+
+
